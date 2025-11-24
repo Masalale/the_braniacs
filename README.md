@@ -73,7 +73,7 @@ the_braniacs/
 ├── img/                   # Image assets
 │   ├── Gallery/          # Gallery photos
 │   ├── bg_logo.png       # Brand logo
-│   ├── wh_logo.png       # Website favicon
+│   ├── wh_logo.png       # Website icon (used as favicon)
 │   └── [team photos]     # Team member images
 ├── tailwind_theme/       # Tailwind CSS theme files
 │   └── tailwind.css      # Compiled Tailwind styles
