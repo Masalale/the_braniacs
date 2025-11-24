@@ -49,73 +49,11 @@ We pitched our mission, presented the problem we identified through research, ex
 ### Challenge 6: Digital Print
 We created this website to establish our digital presence and showcase our work and mission to the world.
 
-## 🌐 Website Structure
-
-This repository contains our official website with the following pages:
-
-- **Home** (`index.html`) - Landing page with our mission and team introduction
-- **Challenges** (`challenges.html`) - Detailed overview of our six E-Lab challenges
-- **Gallery** (`gallery.html`) - Photo gallery showcasing our activities and events
-
 ## 🛠️ Technical Stack
 
 - **HTML5** - Semantic markup
 - **Tailwind CSS** - Modern utility-first CSS framework
 - **JavaScript** - Interactive features and navigation
-
-## 📂 Project Structure
-
-```
-the_braniacs/
-├── index.html              # Home page
-├── challenges.html         # E-Lab challenges page
-├── gallery.html           # Photo gallery
-├── img/                   # Image assets
-│   ├── Gallery/          # Gallery photos
-│   ├── bg_logo.png       # Brand logo
-│   ├── wh_logo.png       # Website icon (used as favicon)
-│   └── [team photos]     # Team member images
-├── tailwind_theme/       # Tailwind CSS theme files
-│   └── tailwind.css      # Compiled Tailwind styles
-└── README.md             # This file
-```
-
-## 🚀 Getting Started
-
-### Viewing the Website
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Masalale/the_braniacs.git
-   cd the_braniacs
-   ```
-
-2. **Open in browser:**
-   - Simply open `index.html` in your web browser
-   - Or use a local server:
-     ```bash
-     # Using Python 3
-     python -m http.server 8000
-     
-     # Using Python 2
-     python -m SimpleHTTPServer 8000
-     
-     # Using Node.js
-     npx http-server
-     ```
-
-3. **Navigate to:**
-   - `http://localhost:8000` (or the port you specified)
-
-### Deployment
-
-This is a static website and can be deployed to various platforms:
-
-- **GitHub Pages**
-- **Netlify**
-- **Vercel**
-- **Firebase Hosting**
-- Any static web hosting service
 
 ## 📞 Contact Us
 
@@ -125,26 +63,10 @@ This is a static website and can be deployed to various platforms:
 - **Instagram:** [@__di.brainiacs](https://www.instagram.com/__di.brainiacs/)
 - **Rumble:** [The Braniacs Channel](https://rumble.com/c/c-6904430)
 
-## 🤝 Contributing
-
-We welcome contributions to improve our website! If you'd like to contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/improvement`)
-6. Create a Pull Request
-
-## 📄 License
-
-© 2024 All Rights Reserved - The Braniacs
-
 ## 🙏 Acknowledgments
 
 - ALU (African Leadership University) for supporting our E-Lab journey
 - Our mentors and instructors who guided us through the challenges
-- The communities we've worked with in Kenya
 - Everyone who has supported our mission
 
 ---
